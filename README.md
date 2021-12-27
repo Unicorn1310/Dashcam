@@ -1,2 +1,2 @@
 # Dashcam
-Dashboard recording camera  
+Dashboard recording camera program will allow user to record video while driving car
